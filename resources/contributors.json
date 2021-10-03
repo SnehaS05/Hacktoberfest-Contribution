@@ -9,6 +9,15 @@
       "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/python-api-tutorial/",
       "folder_url": "https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/python-api-tutorial"
     },
+        {
+            "name": "SNEHA.S",
+            "github_username": "SnehaS05",
+            "image_url": "https://avatars.githubusercontent.com/u/78353498?v=4",
+            "title": "Introduction to API's",
+            "short_description": "Here, In this tutorial, we’ll learn how to use API's.Basically, API is an abbreviation for Application Programming Interfacewhich is a collection of communication protocols and subroutines used by various programs to communicate between them.",
+            "page_url": "https://contribute.devincept.com/Hacktoberfest-Contribution/contributions/Introduction to API's/",
+            "folder_url":"https://github.com/Learn-Write-Repeat/Hacktoberfest-Contribution/tree/master/contributions/Introduction to API's"
+        }
     {
       "name": "Abhay Kumar Ray",
       "github_username": "abhay2002-pro",
